@@ -1,0 +1,5 @@
+description: my feature which needs networking
+type: element
+features:
+  include:
+    - networking
